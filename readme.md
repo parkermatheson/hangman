@@ -1,5 +1,5 @@
 # hangman
-#   - input: single letters
+#   X input: single letters
 #   - word list (maybe predefined words list?)
 #   - display letters
 #   - display hanged man (double MVP)
